@@ -10,3 +10,8 @@
  4. run the jar package (slide 12)
  java -cp bin/day01.jar App
  java -cp day01.jar App (run inside bin folder)
+
+ How to create a java file..
+ 1. Open vscode and click "Create java file"
+ 2. Open folder in downloads folder and create a folder (with name)
+ 3. Then extensions will appear!
